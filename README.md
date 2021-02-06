@@ -1,3 +1,3 @@
 # tawcrud.github.io
 
-Learning projects.
+Learning by doing.
